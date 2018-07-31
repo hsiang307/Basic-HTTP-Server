@@ -1,0 +1,9 @@
+'DEFINES-------------------------------------------------------------
+
+#define DHCP_DEBUG_PRINT 1 
+#define WLN_AVAILABLE 0 
+
+'INCLUDES------------------------------------------------------------
+
+include "sock\trunk\sock.tbh"
+include "dhcp\trunk\dhcp.tbh"
